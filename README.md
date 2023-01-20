@@ -6,7 +6,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/Vitorhlla/QR-CODE-CSS-STYLING-W-FLEXBOX)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
