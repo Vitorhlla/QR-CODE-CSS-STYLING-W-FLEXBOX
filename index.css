@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+    width: 100%;
+    min-width: 375px
+  }
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+    min-width: 375px
+}
+
+#main-container {
+    background-color: hsl(0, 0%, 100%);
+    width: 325px;
+    height: 560px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 16px;
+    flex: 0 1 1;
+    min-width: 375px
+}
+
+#qr-code{
+    width: 280px;
+    margin-top: 18px;
+    align-self: center;
+    border-radius: 16px;
+}
+
+#title {
+    width: 91%;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    font-size: 26px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#description {
+    font-size: 16px;
+    color: hsl(220, 15%, 55%);
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 32px;
+    margin-top: 12px;
+    width: 70%;
+}
